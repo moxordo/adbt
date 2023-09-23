@@ -1,2 +1,2 @@
-# dbt-clii
+# adbt
 🏗️ Interactive CLI for DBT
